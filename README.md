@@ -1,6 +1,6 @@
 # CLASSIFY-CLOTHES-USING-MACHINE-LEARNING
 
-##Objective
+## Objective
 ### • To build Softmax Regression & Random Forest ensemble using scikit-learn for cloth classification in Fashion MNIST dataset
 
 ## Approach
